@@ -1,4 +1,4 @@
-# TripSync Hackathorn (Under Development)
+# TripSync Hackathon (Under Development)
 
 Trip Sync is an evolving and user-friendly web application in active development, serving as a Mapping Software for Oceans. Leveraging technologies such as Microsoft Maps API, Marine Traffic API, PHP, HTML, CSS, SQL, and JavaScript, Trip Sync fetches real-time ship locations from around the globe and displays them on an interactive map. Our goal is to provide a valuable tool for travelers and ships navigating any body of water, offering features like finding ports, tracking ships, and building a robust navigation system based on the shortest routes.
 
